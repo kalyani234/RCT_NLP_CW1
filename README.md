@@ -8,7 +8,6 @@ Two complementary approaches are explored:
 - **Deep Learning (CW2)** using word embeddings and neural architectures
 
 The goal is to support **evidence-based healthcare** by improving the efficiency and accuracy of RCT identification.
-
 ---
 ## 📂 Dataset
 - **Source**: Bat4RCT Dataset  
