@@ -10,15 +10,6 @@ Two complementary approaches are explored:
 The goal is to support **evidence-based healthcare** by improving the efficiency and accuracy of RCT identification.
 
 ---
-
-## 🎓 Academic Context
-- **Course**: 7120CEM – Language-Related Machine Learning & Deep Learning  
-- **University**: Coventry University, UK  
-- **Author**: Anantha Navya Kalyani  
-- **Degree**: MSc Data Science and Computational Intelligence  
-
----
-
 ## 📂 Dataset
 - **Source**: Bat4RCT Dataset  
 - **Size**: 27,063 biomedical articles  
@@ -58,9 +49,7 @@ Dataset link:
 |------|---------|---------|--------|
 | Gradient Boosting | **94.5%** | **0.858** | **0.968** |
 
-### 📁 Notebook
-📌 `RCT_NLP_CW1.ipynb`  
-🔗 https://github.com/kalyani234/RCT_NLP_CW1/blob/main/RCT_NLP_CW1.ipynb
+
 
 ---
 
@@ -89,9 +78,6 @@ Dataset link:
 ### 🏆 Best Model
 **BiLSTM** demonstrated the strongest generalisation and contextual understanding.
 
-### 📁 Notebook
-📌 `NLP_RCT_CW2_final.ipynb`  
-🔗 https://github.com/kalyani234/RCT_NLP_CW1/blob/main/NLP_RCT_CW2_final.ipynb
 
 ---
 
@@ -131,7 +117,7 @@ If you use this work, please cite:
 ---
 
 ## 📬 Contact
-📧 ananthan2@coventry.ac.uk  
+
 🔗 GitHub: https://github.com/kalyani234  
 
 ---
